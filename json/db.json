@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "id": 2,
+      "rollno": 122,
+      "name": "Palak",
+      "city": "Bhopal",
+      "fees": 40900
+    },
+    {
+      "name": "Roshni Rajput",
+      "rollno": "123",
+      "city": "Hoshangabad",
+      "fees": "54489",
+      "id": 3
+    },
+    {
+      "name": "Shrikant Tondon",
+      "city": "bhopal",
+      "rollno": "584",
+      "fees": "45000",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "rollno": "324",
+      "name": "Rohit Patel",
+      "city": "bhopal",
+      "fees": "12412"
+    }
+  ]
+}
